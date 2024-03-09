@@ -1,5 +1,7 @@
 import random
 
+print("piedra,papel o tijera, v0.3")
+
 print("1=piedra")
 print("1=papel")
 print("1=tijera")
